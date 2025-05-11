@@ -8,8 +8,8 @@ This project visualizes real-time Lidar data from a **Xiaomi LDS Lidar sensor** 
 ## 📷 Preview
 
 
-![Lidar Visualization](images/lidar_visualization.jpg)
-![Xiaomi Lidar Sensor](images/xiaomi_lidar.jpg)
+![Lidar Visualization](images/lidar_visualization.gif)
+![Xiaomi Lidar Sensor](images/xiaomi_lidar.jpeg)
 
 ---
 
